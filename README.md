@@ -9,3 +9,6 @@
 - 💬 <b>Database</b> : MySQL, MongoDB, PostgreSQL, MariaDB, SQLite
 - 💬 <b>Third Party</b> : Zoho, Clickup, Jira, Trello, Asana, Monday
 - 📫 <b>Languages</b> : JavaScript, TypeScript, PHP, Python, Solidity, Rust, C,  C++, C#
+
+- Don't hesitate to reach out me if you need any help or wanna collaborate with.
+Thanks
